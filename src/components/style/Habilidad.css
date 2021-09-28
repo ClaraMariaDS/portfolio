@@ -1,0 +1,24 @@
+.habilidad {
+  list-style: none;
+}
+.columna-habilidad {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.iconoHabilidad {
+  width: 70px;
+  margin: 0px 5px;
+}
+
+.contenedorHabilidad {
+  display: flex;
+  margin: 15px 0px;
+  align-items: center;
+}
+
+@media (max-width: 600px) {
+  .iconoHabilidad{
+    width: 30px;
+  }
+}

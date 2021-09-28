@@ -1,0 +1,14 @@
+.introduccion {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 10vw 7vh 10vw;
+  align-items: center;
+}
+
+.introduccion_ilustracion {
+  height: 70vh;
+}
+.textoIntro{
+  width: 35vw;
+  line-height: 1.5;
+}

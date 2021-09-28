@@ -1,0 +1,17 @@
+/* Rosado: #D789A6
+Rosa Acento: #c25a80
+VerdeEsmeralda: #039995
+Verde Acento: #016966
+gris:#5d6770*/
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+body {
+  font-family: "Roboto", sans-serif;
+  width: 100%;
+  margin: 0;
+}
+.Título {
+  display: flex;
+  justify-content: center;
+  text-transform: uppercase;
+}

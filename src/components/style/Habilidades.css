@@ -1,0 +1,15 @@
+.hablilidades {
+  display: flex;
+  justify-content: space-around;
+}
+.seccionHabilidades {
+  height: 115vh;
+  padding-top: 20px;
+}
+@media (max-width: 600px) {
+  .seccionHabilidades{
+    margin:0px 15px;
+    height: 90vh;
+  }
+
+}

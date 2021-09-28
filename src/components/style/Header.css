@@ -1,0 +1,30 @@
+nav {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+  padding-top: 10px;
+  padding-right: 10px;
+}
+nav a{
+  margin-top: 20px;
+}
+.Header {
+  display: flex;
+  justify-content: space-between;
+  height: 20vh;
+}
+.header_logo {
+  width: 70px;
+  height: 70px;
+  margin:15px;
+}
+.header_twitter {
+  width: 25px;
+  height: 25px;
+}
+.header_linkedin,
+.header_mail {
+  width: 25px;
+  height: 25px;
+  padding-left: 10px;
+}

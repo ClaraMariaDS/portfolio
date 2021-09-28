@@ -1,0 +1,22 @@
+.proyectos {
+  display: flex;
+  flex-direction: column;
+  background-color: #e0e0e0;
+  color: white;
+}
+.proyecto_lista {
+  list-style: none;
+}
+.proyecto_imagen {
+  height: 25vh;
+}
+.proyecto {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+.Título {
+  color: black;
+  padding-top: 15px;
+  font-size: 25px;
+}

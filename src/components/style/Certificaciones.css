@@ -1,0 +1,55 @@
+.Título {
+  display: flex;
+  justify-content: center;
+}
+.certificaciones {
+  display: flex;
+  flex-direction: column;
+}
+.seccionCertificaciones {
+  background-color: #e0e0e0;
+  padding: 30px 0px;
+}
+.tituloCertificacion {
+  display: flex;
+  justify-content: center;
+  padding: 30px 0px;
+}
+.ContenedorModalCert {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.botonModal {
+  color: #016966;
+  border: 1px solid #016966;
+  background: transparent;
+  padding: 7px 10px;
+  margin: 5px;
+  border-radius: 15px;
+  font-size: 18px;
+}
+.botonModal:hover {
+  background-color: #016966;
+  color: #e0e0e0;
+  transition: color 1s;
+  transition: background-color 1s;
+}
+.imagenModal {
+  width: 55vw;
+}
+.contenedorModal {
+  display: flex;
+  justify-content: center;
+}
+.cerrarModalBtn {
+  display: flex;
+  justify-content: flex-end;
+}
+.btnCerrarModal {
+  width: 30px;
+  background: transparent;
+  border: 0;
+  cursor: pointer;
+}

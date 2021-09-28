@@ -1,0 +1,15 @@
+.Certificado_img {
+  width: 150px;
+}
+.certificacion {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  align-items: center;
+  margin-left: 5vw;
+}
+
+.infoCertificado {
+  width: 25vw;
+  margin: 0px 0px 0px 20px;
+}
